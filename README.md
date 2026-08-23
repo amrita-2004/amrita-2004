@@ -72,3 +72,15 @@
 <p align="center">
   <b>✨ Thanks for visiting my profile! Keep Learning & Keep Building 🚀</b>
 </p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/amrita-2004/amrita-2004/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/amrita-2004/amrita-2004/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
