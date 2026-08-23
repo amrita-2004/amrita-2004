@@ -1,32 +1,49 @@
-<h1 align="center">Hi 👋, I'm Amrita Chakrabartty</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI+%26+Python+Developer;Future+Software+Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Amrita%20Chakrabartty&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+# Hi 👋 I'm Amrita Chakrabartty
+
+### B.Tech CSE Student • AI & Frontend Developer
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Developer;Python+%7C+Flask+%7C+MongoDB;Open+Source+Learner;Future+Software+Engineer"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrita-2004&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amrita-2004&style=for-the-badge&color=2563EB"/>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-AI-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-Backend-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-Database-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SIH-2026-F59E0B?style=for-the-badge"/>
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student at **JIS University**
-- 🌱 Learning **Python,Flask, MongoDB, Java**
-- 💼 Interested in AI, Web Development & Open Source
+- 🤖 Building **AI Resume Analyzer**
+- 🌱 Learning **Python, Flask, MongoDB & Java**
+- 💡 Interested in **AI, Backend Development & Open Source**
+- 🎯 Preparing for **SIH 2026**
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,flask,mongodb,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,flask,mongodb,git,github,vscode&perline=6"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=amrita-2004&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -39,17 +56,24 @@
 
 ---
 
-## 🚀 Featured Project
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrita-2004&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌟 Featured Project
 
 ### AI Resume Analyzer
 
 > AI-powered Resume Analysis using **Python, Flask, NLP & MongoDB**
 
-✨ Features:
 - ATS Resume Score
 - Skill Gap Detection
-- Career Suggestions
 - Resume Feedback Dashboard
+- Career Suggestions
 
 ---
 
@@ -57,21 +81,18 @@
 
 <p align="center">
   <a href="https://github.com/amrita-2004">
-    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/amrita-chakrabartty-69a355380">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+  &nbsp;&nbsp;
+  <a href="mailto:amrita.chakrabartty2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  <b>✨ Thanks for visiting my profile! Keep Learning & Keep Building 🚀</b>
-</p>
 ---
 
 ## 🐍 Contribution Snake
@@ -84,3 +105,13 @@
       src="https://raw.githubusercontent.com/amrita-2004/amrita-2004/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+---
+
+<div align="center">
+
+### ✨ Keep Learning • Keep Building • Keep Growing
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+
+</div>
