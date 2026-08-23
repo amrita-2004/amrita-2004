@@ -83,6 +83,20 @@ Building responsive and interactive web interfaces with a focus on:
 
 </td>
 <td width="50%" valign="top">
+
+### 🤖 AI-Powered Applications
+Exploring how AI can be integrated into web applications through:
+- NLP
+- Resume Analysis
+- Career Intelligence
+- Intelligent Recommendations
+- Data-driven insights
+
+</td>
+</tr>
+</table>
+
+---
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -104,21 +118,7 @@ Building responsive and interactive web interfaces with a focus on:
   </a>
 
 </p>
-
-### 🤖 AI-Powered Applications
-Exploring how AI can be integrated into web applications through:
-- NLP
-- Resume Analysis
-- Career Intelligence
-- Intelligent Recommendations
-- Data-driven insights
-
-</td>
-</tr>
-</table>
-
 ---
-
 ## 🌟 Featured Project
 
 <div align="center">
