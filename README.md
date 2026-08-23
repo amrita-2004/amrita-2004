@@ -179,28 +179,7 @@ If you'd like to collaborate on a project, discuss frontend development, or talk
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
 
 </div>
-name: Generate Snake Animation
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day (midnight UTC)
-  workflow_dispatch:        # lets you run it manually from the Actions tab
-  push:
-    branches:
-      - main               # regenerate whenever you push to main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
