@@ -119,35 +119,7 @@ Exploring how AI can be integrated into web applications through:
 
 </p>
 ---
-## 🌟 Featured Project
 
-<div align="center">
-
-### 🤖 AI Resume Analyzer
-**AI-Powered Career Intelligence & Resume Analysis Platform**
-
-</div>
-
-An AI-powered web application designed to analyze resumes and provide intelligent career insights.
-
-### ✨ Key Features
-- 📄 **ATS Resume Score**
-- 🧠 **AI Resume Analysis**
-- 🎯 **Skill Gap Detection**
-- 📊 **Interactive Dashboard**
-- 💡 **Resume Improvement Suggestions**
-- 🚀 **Career Recommendations**
-- 🔐 **Authentication & User Management**
-- ⚡ **Real-time Web Application Features**
-
-### 🧰 Technologies
-```text
-Frontend     → HTML • CSS • JavaScript
-Backend      → Python • Flask
-Database     → MongoDB
-AI / NLP     → Natural Language Processing
-Tools        → Git • GitHub • VS Code
-```
 
 <div align="center">
 
