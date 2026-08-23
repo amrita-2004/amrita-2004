@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Amrita%20Chakrabartty&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 # Hi 👋 I'm Amrita Chakrabartty
-
 ### B.Tech CSE Student • Frontend Developer • AI Enthusiast
 
 <p>
@@ -12,13 +11,16 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=amrita-2004&style=for-the-badge&color=2563EB"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Frontend-Development-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20Source-Learner-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/amrita-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
@@ -28,7 +30,6 @@
 ## 👩‍💻 About Me
 
 I'm a **B.Tech Computer Science & Engineering student** passionate about building modern, responsive and user-friendly web experiences.
-
 I enjoy combining **frontend development, backend technologies and AI** to create practical applications that solve real-world problems.
 
 - 🎓 B.Tech CSE Student at **JIS University**
@@ -45,25 +46,21 @@ I enjoy combining **frontend development, backend technologies and AI** to creat
 ## 🛠️ Technical Skills
 
 ### 🌐 Frontend Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js&perline=6"/>
 </p>
 
 ### ⚙️ Backend & Database
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,mongodb&perline=6"/>
 </p>
 
 ### 💻 Programming Languages
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=6"/>
 </p>
 
 ### 🔧 Tools & Platforms
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6"/>
 </p>
@@ -74,12 +71,10 @@ I enjoy combining **frontend development, backend technologies and AI** to creat
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Frontend Development
-
 Building responsive and interactive web interfaces with a focus on:
-
 - Clean UI
 - Responsive layouts
 - User experience
@@ -87,13 +82,10 @@ Building responsive and interactive web interfaces with a focus on:
 - Interactive components
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI-Powered Applications
-
 Exploring how AI can be integrated into web applications through:
-
 - NLP
 - Resume Analysis
 - Career Intelligence
@@ -111,7 +103,6 @@ Exploring how AI can be integrated into web applications through:
 <div align="center">
 
 ### 🤖 AI Resume Analyzer
-
 **AI-Powered Career Intelligence & Resume Analysis Platform**
 
 </div>
@@ -119,7 +110,6 @@ Exploring how AI can be integrated into web applications through:
 An AI-powered web application designed to analyze resumes and provide intelligent career insights.
 
 ### ✨ Key Features
-
 - 📄 **ATS Resume Score**
 - 🧠 **AI Resume Analysis**
 - 🎯 **Skill Gap Detection**
@@ -128,13 +118,96 @@ An AI-powered web application designed to analyze resumes and provide intelligen
 - 🚀 **Career Recommendations**
 - 🔐 **Authentication & User Management**
 - ⚡ **Real-time Web Application Features**
-  
 
 ### 🧰 Technologies
-
 ```text
 Frontend     → HTML • CSS • JavaScript
 Backend      → Python • Flask
 Database     → MongoDB
 AI / NLP     → Natural Language Processing
 Tools        → Git • GitHub • VS Code
+```
+
+<div align="center">
+
+<!-- If your project is hosted, add real links below -->
+<!-- <a href="https://your-live-demo-link.com"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+<a href="https://github.com/amrita-2004/ai-resume-analyzer"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amrita-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrita-2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita-2004&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrita-2004&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amrita-2004/amrita-2004/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/amrita-2004/amrita-2004/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+</div>
+
+> ⚙️ **Setup note:** the snake animation above renders automatically once you add the GitHub Action workflow (`snake.yml`) to this profile repository — see the file shared alongside this README for the ready-to-use workflow.
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Collaborate!
+
+If you'd like to collaborate on a project, discuss frontend development, or talk about AI in web apps — feel free to reach out!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+
+</div>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day (midnight UTC)
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+  push:
+    branches:
+      - main               # regenerate whenever you push to main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
