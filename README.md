@@ -83,6 +83,27 @@ Building responsive and interactive web interfaces with a focus on:
 
 </td>
 <td width="50%" valign="top">
+## 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="https://github.com/amrita-2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-amrita--2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  &nbsp;
+
+  <a href="https://linkedin.com/in/amrita-chakrabartty-69a355380" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Chakrabartty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  &nbsp;
+
+  <a href="mailto:amrita.chakrabartty2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amrita.chakrabartty2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</p>
 
 ### 🤖 AI-Powered Applications
 Exploring how AI can be integrated into web applications through:
@@ -180,13 +201,4 @@ If you'd like to collaborate on a project, discuss frontend development, or talk
 
 </div>
 
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake output to "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           
