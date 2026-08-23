@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrita Chakrabartty</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI+%26+Python+Developer;Flask+%7C+MongoDB+Learner;SIH+2026+Participant;Future+Software+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI+%26+Python+Developer;Future+Software+Engineer"/>
 </p>
 
 <p align="center">
