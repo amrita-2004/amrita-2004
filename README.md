@@ -128,6 +128,7 @@ An AI-powered web application designed to analyze resumes and provide intelligen
 - 🚀 **Career Recommendations**
 - 🔐 **Authentication & User Management**
 - ⚡ **Real-time Web Application Features**
+  
 
 ### 🧰 Technologies
 
@@ -137,24 +138,3 @@ Backend      → Python • Flask
 Database     → MongoDB
 AI / NLP     → Natural Language Processing
 Tools        → Git • GitHub • VS Code
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="https://github.com/amrita-2004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-amrita--2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  &nbsp;
-
-  <a href="https://linkedin.com/in/amrita-chakrabartty-69a355380" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Chakrabartty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  &nbsp;
-
-  <a href="mailto:amrita.chakrabartty2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amrita.chakrabartty2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-</p>
