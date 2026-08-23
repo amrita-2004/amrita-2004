@@ -103,26 +103,23 @@
 
 <p align="center">
 
-<a href="https://github.com/amrita-2004">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
+  <a href="https://github.com/amrita-2004" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  </a>
 
-&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/amrita-chakrabartty-69a355380">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
+  <a href="https://linkedin.com/in/amrita-chakrabartty-69a355380" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
 
-&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:amrita.chakrabartty2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
+  <a href="mailto:amrita.chakrabartty2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
+  </a>
 
 </p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
