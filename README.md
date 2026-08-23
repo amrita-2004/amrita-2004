@@ -7,7 +7,7 @@
 ### B.Tech CSE Student • Frontend Developer • AI Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Web+Experiences;AI+%26+Web+Development;Future+Software+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;Building+Modern+Web+Experiences;HTML+%7C+CSS+%7C+JavaScript;AI+%26+Web+Development;Future+Software+Engineer"/>
 </p>
 
 <p>
@@ -16,30 +16,35 @@
 
 <p>
   <img src="https://img.shields.io/badge/Frontend-Development-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-Web-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Learner-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
+
+I'm a **B.Tech Computer Science & Engineering student** passionate about building modern, responsive and user-friendly web experiences.
+
+I enjoy combining **frontend development, backend technologies and AI** to create practical applications that solve real-world problems.
 
 - 🎓 B.Tech CSE Student at **JIS University**
-- 💻 Passionate **Frontend Developer** focused on modern web interfaces
-- 🎨 Building responsive, interactive and user-friendly websites
+- 💻 Focused on **Frontend & Web Development**
+- 🎨 Interested in **UI/UX and modern web interfaces**
 - 🤖 Exploring **AI-powered web applications**
-- 🌱 Currently improving my skills in **JavaScript, Python, Flask & MongoDB**
-- 🚀 Interested in **Frontend Development, UI/UX, AI & Open Source**
+- 🌱 Currently improving **JavaScript, Python, Flask & MongoDB**
+- 🔧 Practicing **C, C++, Java & Problem Solving**
+- 🚀 Interested in **Frontend, AI, Open Source & Software Engineering**
 - 🎯 Preparing for **SIH 2026**
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js&perline=6"/>
@@ -51,93 +56,84 @@
   <img src="https://skillicons.dev/icons?i=python,flask,mongodb&perline=6"/>
 </p>
 
-### 🛠️ Programming & Tools
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=6"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 What I'm Currently Working On
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amrita-2004&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrita-2004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table align="center">
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amrita-2004&theme=tokyonight&hide_border=true"/>
-</p>
+### 💻 Frontend Development
 
----
+Building responsive and interactive web interfaces with a focus on:
 
-## 📈 Contribution Graph
+- Clean UI
+- Responsive layouts
+- User experience
+- Modern web design
+- Interactive components
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrita-2004&theme=tokyo-night&hide_border=true"/>
-</p>
+</td>
+
+<td width="50%">
+
+### 🤖 AI-Powered Applications
+
+Exploring how AI can be integrated into web applications through:
+
+- NLP
+- Resume Analysis
+- Career Intelligence
+- Intelligent Recommendations
+- Data-driven insights
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌟 Featured Project
 
-### 🤖 AI Resume Analyzer
-
-> An AI-powered web application that analyzes resumes and provides intelligent career insights.
-
-**Tech:** Python • Flask • NLP • MongoDB • HTML • CSS • JavaScript
-
-#### ✨ Features
-
-- 📄 ATS Resume Score
-- 🧠 AI-powered Resume Analysis
-- 🎯 Skill Gap Detection
-- 📊 Interactive Dashboard
-- 💡 Resume Improvement Suggestions
-- 🚀 Career Recommendations
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="https://github.com/amrita-2004" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/amrita-chakrabartty-69a355380" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:amrita.chakrabartty2004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
-  </a>
-
-</p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/amrita-2004/amrita-2004/output/github-contribution-grid-snake-dark.svg">
-
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/amrita-2004/amrita-2004/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
 <div align="center">
 
-### ✨ Build • Design • Learn • Innovate
+### 🤖 AI Resume Analyzer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+**AI-Powered Career Intelligence & Resume Analysis Platform**
 
 </div>
+
+An AI-powered web application designed to analyze resumes and provide intelligent career insights.
+
+### ✨ Key Features
+
+- 📄 **ATS Resume Score**
+- 🧠 **AI Resume Analysis**
+- 🎯 **Skill Gap Detection**
+- 📊 **Interactive Dashboard**
+- 💡 **Resume Improvement Suggestions**
+- 🚀 **Career Recommendations**
+- 🔐 **Authentication & User Management**
+- ⚡ **Real-time Web Application Features**
+
+### 🧰 Technologies
+
+```text
+Frontend     → HTML • CSS • JavaScript
+Backend      → Python • Flask
+Database     → MongoDB
+AI / NLP     → Natural Language Processing
+Tools        → Git • GitHub • VS Code
