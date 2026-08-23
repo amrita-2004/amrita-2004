@@ -29,18 +29,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a **B.Tech Computer Science & Engineering student** passionate about building modern, responsive and user-friendly web experiences.
-I enjoy combining **frontend development, backend technologies and AI** to create practical applications that solve real-world problems.
+I'm a B.Tech Computer Science & Engineering student passionate about building modern, responsive, and user-friendly web experiences. I love turning designs into clean, interactive interfaces using the latest frontend technologies.
 
-- 🎓 B.Tech CSE Student at **JIS University**
-- 💻 Focused on **Frontend & Web Development**
-- 🎨 Interested in **UI/UX and modern web interfaces**
-- 🤖 Exploring **AI-powered web applications**
-- 🌱 Currently improving **JavaScript, Python, Flask & MongoDB**
-- 🔧 Practicing **C, C++, Java & Problem Solving**
-- 🚀 Interested in **Frontend, AI, Open Source & Software Engineering**
-- 🎯 Preparing for **SIH 2026**
-
+🎓 B.Tech CSE Student at JIS University
+💻 Focused on Frontend & Web Development
+🎨 Passionate about UI/UX and Modern Web Interfaces
+🌱 Currently improving JavaScript, React, HTML & CSS
+🛠️ Familiar with Tailwind CSS, Git & GitHub
+🚀 Interested in Frontend Development, Open Source & Software Engineering
+🎯 Preparing for Smart India Hackathon (SIH) 2026
 ---
 
 ## 🛠️ Technical Skills
